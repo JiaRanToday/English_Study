@@ -315,6 +315,8 @@ n.
 v.
 Will the operation leaves a scar.
 scar from
+scarify
+v.
 post
 n.
 v.
@@ -322,6 +324,118 @@ poster
 n.
 We have to put up  posters for this event.
 postman
+n.
+ultimate
+adj.
+ultimately
+adv.
+Every thing will ultimately depends on what is said at the meeting.
+scenic
+adj.
+My hometown is very small but is a town of scenic beauty.
+slip
+v.
+As I ran up the stairs, my foot slip done and I fell.
+appealing
+adj.
+He has an appealing personality and everyone enjoys working with him.
+evolve
+v.
+it is widely believed that humans and apes evolve from a common ancestor.
+evolution
+n.
+evolutionary.
+adj.
+evolutionary means relating to a process of gradual change and development.
+evolutionist
+n.
+surf
+v.
+David learned to surf when he lived in Xiaman.
+surfing
+n.
+surfer
+n.
+expertise
+adj.
+It is difficult to find employees with the level of expertise required for this job.
+expert
+n.
+inexpert
+adj.
+injure.
+n.
+He injured his knee playing hockey.
+injury
+n.
+injurious
+adj.
+injured
+v.
+uninjured
+adj.
+welfare
+n.
+We are concerned about the child's welfare.
+welfarism
+n.
+graduate
+v.
+n.
+She will graduate from Peking University this July.
+graduation
+n.
+undergraduate
+n.
+postgraduate
+n.
+relate
+v.
+be related to.
+In the future, pay increases will be relate to productivity.
+relative
+adj.
+n.
+relativity
+n.
+relativism
+n.
+relatively
+adv.
+relation
+n.
+relationship
+n.
+relational
+adj.
+related
+adj.
+unrelated
+adj.
+goat
+n.
+Goat milk is rich in a variety of nutrients.
+being
+n.
+The Irish Free State came into being in 1922.
+design
+n.
+v.
+The basic design of this car is very similar to that of earlier models.
+designer
+n.
+nap
+n.
+Taking a nap after lunch can make you energetic int the afternoon.
+nappy
+n.
+facility
+n.
+The recreational facility are now available to public.
+enrich
+v.
+The library was enriched with new book.
+enrichment
 n.
 
 
